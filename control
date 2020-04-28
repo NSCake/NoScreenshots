@@ -1,0 +1,9 @@
+Package: com.nscake.photos.fixphotos
+Name: FixPhotos
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Various tweaks for the iOS 13 Photos app.
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Author: Tanner Bennett <thepantsthief@me.com>
+Section: Tweaks
